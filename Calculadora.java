@@ -6,3 +6,5 @@
 //Cambios realizados en NetBeans
 
 //Vuelto a editar desde NetBeans
+
+//Ejercicio 6 editado desde NetBeans
